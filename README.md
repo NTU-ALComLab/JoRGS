@@ -1,4 +1,4 @@
-# JoRGS: <ins>Jo</ins>int <ins>R</ins>otation <ins>G</ins>gate <ins>S</ins>ynthesis
+# JoRGS: <ins>Jo</ins>int <ins>R</ins>otation <ins>G</ins>ate <ins>S</ins>ynthesis
 
 ## Introduction
 `JoRGS` is a synthesis tool for quantum rotation gates implemented in C/C++. 
